@@ -8,10 +8,17 @@ He/His
 ### ⚡ One line that describes me best? 
 An ambitious boy who loves to be around sports related stuff, day dream at nights and sometime codes too.😉😉
 
-### 📫 How to reach me?
+### 📫 How to reach me? ![](https://visitor-badge.glitch.me/badge?page_id=sharmaumang001.sharmaumang001)
 - [Twitter](https://twitter.com/wahiLadka) 
 - [LinkedIn](https://www.linkedin.com/in/0729/) 
 - [My personal portfolio](http://sharmaumang001.github.io) 
 - [Instagram](https://www.instagram.com/iumang._/)
+
+### 🎯 Github Stats
+- [Check My Repositories](https://github.com/Niket-iiitu?tab=repositories)
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sharmaumang001&show_icons=true&theme=gotham" alt="Sharmaumang001" />
+
+
 
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
