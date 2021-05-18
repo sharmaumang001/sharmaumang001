@@ -12,10 +12,9 @@ An ambitious boy who loves to be around sports related stuff, day dream at night
 - [Twitter](https://twitter.com/wahiLadka) 
 - [LinkedIn](https://www.linkedin.com/in/0729/) 
 - [My personal portfolio](http://sharmaumang001.github.io) 
-- [Instagram](https://www.instagram.com/iumang._/)
 
 ### 🎯 Github Stats
-- [Check My Repositories](https://github.com/Niket-iiitu?tab=repositories)
+- [Check My Repositories](https://github.com/sharmaumang001?tab=repositories)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sharmaumang001&show_icons=true&theme=gotham" alt="Sharmaumang001" />
 
