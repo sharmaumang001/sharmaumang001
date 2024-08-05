@@ -6,7 +6,7 @@ I am _Umang Sharma_. I am pursuing with a Bachelor of Technology focused in Info
 He/His
 
 ### ⚡ One line that describes me best? 
-An ambitious boy who loves to be around sports related stuff, day dream at nights and sometime codes too.😉😉
+An ambitious guy who loves to be around sports related stuff, day dream at nights and sometime codes too.😉😉
 
 ### 📫 How to reach me? ![](https://visitor-badge.glitch.me/badge?page_id=sharmaumang001.sharmaumang001)
 - [Twitter](https://twitter.com/wahiLadka) 
